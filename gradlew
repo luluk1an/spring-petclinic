@@ -1,4 +1,8 @@
+<<<<<<< HEAD
    #!/bin/sh
+=======
+  #!/bin/sh
+>>>>>>> branch1
 
 #
 # Copyright © 2015-2021 the original authors.
